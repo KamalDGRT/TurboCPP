@@ -2,7 +2,7 @@
 #include <conio.h>
 #include <stdio.h>
 
-int STRCAT(char[], char[]); //Function Prototype
+void STRCAT(char[], char[]); //Function Prototype
 
 void main()
 {
@@ -23,7 +23,7 @@ void main()
   getch();
 }
 
-int STRCAT(char x[], char y[])
+void STRCAT(char x[], char y[])
 {
   int i, j;
   i = 0;
@@ -37,6 +37,6 @@ int STRCAT(char x[], char y[])
   {
     x[i] = y[j];
   }
-  x[i] = '\0';  // x[i] = 0; also works 
+  x[i] = '\0';  // x[i] = 0; also works
 
 }
