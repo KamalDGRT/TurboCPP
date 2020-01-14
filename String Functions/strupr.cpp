@@ -30,6 +30,6 @@ void STRUPR(char b[])
     {
       x = b[i];
       if(x>='a' && x<='z')
-         b[i] += 32;
+         b[i] -= 32;
     }
 }
