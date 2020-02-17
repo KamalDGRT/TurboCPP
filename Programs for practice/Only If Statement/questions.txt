@@ -1,0 +1,11 @@
+1. Get a number from user. If the number is less than or equal to 10, print the message "Good".
+
+2. Read three numbers from the user and find the biggest of three using simple (multiple) if statements.
+
+3. Write a program to find the absolute value of a given number.
+
+4. Write a program to display a number only if the user enters a negative number. If the user enters a 
+   positive number, that number should not be displayed.
+
+5. Write a program to accept two integers and display the message "Equal" if they are equal. If not,
+   message should not be displayed.
