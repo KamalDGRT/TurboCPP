@@ -1,0 +1,10 @@
+1. Write a program to check whether a given number is postive or not.
+
+2. Write a program to check whether a given number is a leap year or not.
+
+3. Given the co-ordinates of the left top and right bottom corners of a rectangle, determine whether it is a square or not.
+
+4. Write a program which takes three sides A, B and C of a triangle as input. check if the given sides form a triangle.
+   If they do, find the area using Heron's formula.
+
+5. Write a program which takes a character as input and checks whether it is a vowel or consonant.
