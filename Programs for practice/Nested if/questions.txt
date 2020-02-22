@@ -1,0 +1,22 @@
+1. Read three numbers from the user and find the biggest among them using nested if statements.
+
+2. Write a program that prints the given three numbers in ascending order using nested if statements.
+
+3. Write a program to calculate the roots of quadratic eqation ax^2 + bx + c = 0.
+
+4. A program for the following scenario using nested if statements.
+    If gender of the employee is male, the following conditions apply for tax payable calculation.
+         Upto Rs. 1 Lakh of net salary - No tax
+         net salary > 1 Lakh - 10 %
+
+    If gender of the employee is female, the following conditions apply for tax payable calculation.
+        Upto Rs. 1.35 Lakh of Net Salary - No tax
+        Net Salary > 1.35 Lakh - 10% tax.
+    
+5. A program that will read the value of x and evaluate the following function.
+
+     y = -1 for x greater than zero
+     y = 0  for x equal to zero
+     y = 1  for x lesser than zero
+
+    
